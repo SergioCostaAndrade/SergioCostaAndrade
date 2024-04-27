@@ -7,6 +7,19 @@
 Trabalhei com desenvolvimento de sistemas nas empresas Banco Banorte e Celpe, utilizando a linguagem Natural-Adabas, JCL, entre 1992 e 2003.
 
 Atualmente estou participando de uma preparação técnica na Cubos Academy para aprender as novas tecnologias e voltar a atuar na área de TI.
+
+Nesta preparação aprendemos:
+
+JavaScript,
+como desenvolver aplicações API REST,
+banco de dados Postgres, ElephantSQL,
+autenticação e criptografia,
+integração com API de terceiros,
+Git - fluxo e trabalho em equipe,
+query builder,
+envio de e-mails com Mailtrap,
+deploy usando cyclic.sh
+
 Também comecei o BootCamp Santander 2024 na DIO.me na trilha Java, para adicinar mais essa hard skill na minha profile.
 
 ### Tecnologias e Ferramentas
