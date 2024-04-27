@@ -4,7 +4,7 @@
 
 💻 Eu sou um desenvolvedor [Front-End | Back-End | Fullstack]
 
-Trabalhei com desenvolvimento de sistemas nas empresas Banco Banorte e Celpe, utilizando a linguagem Natural-Adabas, entre 1992 a 2003.
+Trabalhei com desenvolvimento de sistemas nas empresas Banco Banorte e Celpe, utilizando a linguagem Natural-Adabas, JCL, entre 1992 e 2003.
 
 Atualmente estou participando de uma preparação técnica na Cubos Academy para aprender as novas tecnologias e voltar a atuar na área de TI.
 Também comecei o BootCamp Santander 2024 na DIO.me na trilha Java, para adicinar mais essa hard skill na minha profile.
