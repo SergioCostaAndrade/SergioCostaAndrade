@@ -10,7 +10,7 @@ Trabalhei com desenvolvimento de sistemas nas empresas Banco Banorte e Celpe, ut
 
 ### Atualmente
 
-Estou participando de uma preparação técnica backend na Cubos Academy para aprender as novas tecnologias e voltar a atuar na área de TI.
+Estou participando de uma preparação técnica backend-frontend na Cubos Academy para aprender as novas tecnologias e voltar a atuar na área de TI.
 
 ### Nesta preparação aprendemos:
 
